@@ -1,0 +1,6 @@
+# your own photos and their conversions stay on your computer
+photos/*
+!photos/.gitkeep
+converted/
+build-cg/
+__pycache__/
